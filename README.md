@@ -1,5 +1,6 @@
 **Work**
-* Engineering Manager II at Deliveroo — Advertising Platform (Jan 2021–Present)
+* Senior staff software engineer at [Candy](https://candy.com) — we’re hiring!
+* Engineering Manager II at Deliveroo — Advertising Platform (Jan 2021–Jul 2021)
 * Staff software engineer at Deliveroo (Jul 2017–Jan 2021)
 * Senior software engineer at Maple (acquired by Deliveroo) (Sep 2015–Jul 2017)
 * Software engineer at [Genius.com](https://genius.com) (May–Sep 2015)
