@@ -8,8 +8,8 @@
 
 **Expertise**
 
-* Go, Typescript, Kafka, Postgres
-* React, next.js
+* Go, Protobuf, Kafka, Postgres
+* React, next.js, Typescript
 
 [acquisition]: https://techcrunch.com/2017/05/08/maple-shuts-down/
 [deliveroo]: https://deliveroo.co.uk
