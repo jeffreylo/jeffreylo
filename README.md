@@ -1,5 +1,5 @@
 **Work**
-* Senior staff software engineer at [Candy](https://candy.com) — [we’re hiring](https://www.linkedin.com/jobs/view/2600249766/) (Jul 2021–Present)
+* Engineering Director at [Candy](https://candy.com) — [we’re hiring](https://www.linkedin.com/jobs/view/2600249766/) (Jul 2021–Present)
 * Engineering Manager II at [Deliveroo][deliveroo] — Advertising Platform (Jan 2021–Jul 2021) (IPO — March 31, 2021)
 * Staff software engineer at [Deliveroo][deliveroo] (Jul 2017–Jan 2021)
 * Senior software engineer at Maple ([acquired by Deliveroo][acquisition]) (Sep 2015–Jul 2017)
