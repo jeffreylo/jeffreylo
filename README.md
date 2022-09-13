@@ -1,4 +1,6 @@
 **Work**
+
+* Core Marketplace at [Whatnot](https://whatnot.com) (Aug 2022–Present)
 * Engineering Director at [Candy](https://candy.com) — Founding Engineer (Jul 2021–2022)
 * Engineering Manager II at [Deliveroo][deliveroo] — Advertising Platform (Jan 2021–Jul 2021) (IPO — March 31, 2021)
 * Staff software engineer at [Deliveroo][deliveroo] (Jul 2017–Jan 2021)
